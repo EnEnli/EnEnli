@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>首頁</title>
+</head>
+<body>
+	
+	
+	<a href="首頁.html">首頁</a>
+	<table border="1" align="center" cellpadding="1" cellspacing="5" width="600" height="200">
+	      <tr>
+	      	<td colspan="4">作業1HTML表格</td>
+	      </tr>
+	      <tr><td rowspan="3"><img src="恩恩照片.jpg" width="600" ></td>
+
+	      	<td>班級</td>
+	      	<td>資工二甲</td>
+	      </tr>	
+	      	
+	      	<tr>
+	      		<td>姓名</td>
+	      	    <td>劉宇恩</td>
+	      	</tr>
+
+	      	<tr>
+	      		<td>學號</td>
+	      		<td>1110932007
+	            </td>
+	      	</tr>
+</table> 
+	
+
+</body>
+</html>
